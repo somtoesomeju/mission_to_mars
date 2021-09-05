@@ -8,4 +8,4 @@ In this project, I am scraping data from the NASA website to create my own HTML 
 - Languages: Python, HTML
 
 # Results
-From my analysis, I was able to successfully scrape the wesbite and add it to a new website "index.html". This page stores the data from the NASA website. It also scraped and inserted my dataframe that was made in the jupyter notebook. The image can be seen [here].
+From my analysis, I was able to successfully scrape the wesbite and add it to a new website "index.html". This page stores the data from the NASA website. It also scraped and inserted my dataframe that was made in the jupyter notebook. The image can be seen [here](https://github.com/somtoesomeju/mission_to_mars/blob/main/Resources/scraped_mars_data.png).
